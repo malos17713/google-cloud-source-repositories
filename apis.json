@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Cloud Source Repositories",
+	"description": "This is a repository of google cloud source repositories APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-cloud-source-repositories.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-cloud-source-repositories.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Cloud Source Repositories",
+			"x-api-slug": "google-cloud-source-repositories",
+			"description": "Google Cloud Source Repositories provides Git version control to support collaborative development of any application or service, including those that run on Google App Engine and Google Compute Engine. If you are using the Stackdriver Debugger, you can use Cloud Source Repositories and related tools to view debugging information alongside your code during application runtime. Cloud Source Repositories also provides a source browser that you can use to view your repository files from within the Cloud Console.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-repositories.png",
+			"humanURL": "https://cloud.google.com/source-repositories/",
+			"baseURL": "://sourcerepo.googleapis.com//",
+			"tags": "Google Cloud Source Repositories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-source-repositories/master/_listings/google-cloud-source-repositories/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Cloud Source Repositories",
+	"include": [
+		{
+			"name": "Google Cloud Source Repositories",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-source-repositories/master/_listings/google-cloud-source-repositories/apis.yaml"
+		}
+	]
+}
